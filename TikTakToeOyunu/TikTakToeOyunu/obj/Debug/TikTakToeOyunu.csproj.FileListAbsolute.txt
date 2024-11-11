@@ -1,0 +1,7 @@
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\bin\Debug\TikTakToeOyunu.exe.config
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\bin\Debug\TikTakToeOyunu.exe
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\bin\Debug\TikTakToeOyunu.pdb
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.exe
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.pdb
+C:\Users\akaya\source\repos\TikTakToeOyunu\TikTakToeOyunu\obj\Debug\TikTakToeOyunu.csprojAssemblyReference.cache
